@@ -1,0 +1,2 @@
+#define LAUNCHER_API __declspec(dllexport)
+#define LAUNCHER_API __declspec(dllimport)
